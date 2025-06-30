@@ -14,7 +14,7 @@ A modern web-based password manager built with Flask, HTML, CSS, and JavaScript.
 - Toast notifications
 - Password requirements validation
 
-## Setup
+## installation Setup
 
 1. Create a virtual environment (recommended):
 ```bash
