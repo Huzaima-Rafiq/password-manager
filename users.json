@@ -1,41 +1,10 @@
 {
-    "Hacktor": {
-        "Mr Most Streamed ": {
-            "password": "*********",
-            "username": "Rusty Dev",
-            "url": "http://google.com",
-            "notes": "Info of some social media accounts.",
-            "timestamp": "2025-05-21T13:42:14.850Z"
-        }
-    },
-    "User2": {},
-    "user": {
-        "Whatsapp": {
-            "password": "******",
-            "username": "user",
-            "url": "https://www.whatsapp.com/",
-            "notes": "This is my personal whatspp password.",
-            "timestamp": "2025-05-15T03:40:06.366Z"
-        }
-    },
-    "user3": {},
-    "user": {
-        "Linkedin": {
-            "password": "********",
-            "username": "user",
-            "url": "https://pk.linkedin.com/in/",
-            "notes": "This my linkedin account.",
-            "timestamp": "2025-05-15T04:17:20.177Z"
-        }
-    },
-    "user4": {
-        "Whatsappp": {
-            "password": "********",
-            "username": "user",
-            "url": "https://www.whatsapp.com/",
-            "notes": "This is my whatsapp password",
-            "timestamp": "2025-05-22T05:35:34.540Z"
-        }
-    },
-    "Huzaima Rafiq": {}
+    "Hacktor": "scrypt:32768:8:1$PAOrpavflwEg3c0u$d45a0ae919364b7ab49c9528c4a1f2a78d08e28ecbf8634586f77d1d87a95be2727703ded16a5c4db211d34d52f18567fc53f502b87d9b59e22b15da02547cf0",
+    "user1": "scrypt:32768:8:1$thm0DUAuwJ0mA8pg$33ac6ca4a4f2c752fbe43f94fbc67cccd2aecb3f4e70b22d84cab4589a60390503a3915ee4fa526c087dfa9d314de67c976087283ad7cdec98547b1a20927d9d",
+    "user2": "scrypt:32768:8:1$LM9NLWX0lwMVANcL$d2bb9a8952f0edad45e89bea5e901372da0acff0632de4aba5a33c855b78118172be1e2f3a68996cc09d781bebd5c86b632cb2b59cc3f6b1768171b5161a75b7",
+    "user3": "scrypt:32768:8:1$Mbss3tgnx92izSBA$d7434828a0e82387dd2d5bd4b1e6b0679f41b3a7a6f1594050b3b52e8df5736aa1161630c68831a2dd9067e7f918e731cbd720c316bbc22a0f459a683ac84f3c",
+    "user4": "scrypt:32768:8:1$Qnj6gx7V8WsggfkR$b719aa86c057411e61a1d12826204055d107e82cc99a3d113e46406087bcaed8c93fa2f81754ca14e1f0c19cbcf2fe5beea647e7bfa8e05ee38f7a876a9def88",
+    "user5": "scrypt:32768:8:1$xsyyFzbx1X9ICzg9$74d5fb2f40d669cfb76126b933aea08b0597530fafbdfcb96ac0b652ec5f06fcf18299012c6d51296376c40f52e3e1d7d2e33c776f5ad857a2bdc12ed00f2742",
+    "user6": "scrypt:32768:8:1$xbLx2OKxpbTH3Zui$e01baf2cf89c374354cf579bfe4456b94898d5a25023f5a1513a121f695a934b3bce430c18a5b5a0f1695357005de575c4ab8bb4f29b4a3da24b035b00fb799e",
+    "user7": "pbkdf2:sha256:260000$YNc5XjUogO5ASqEi$f948921249ad5489628a0d774d1bcf62b1fbb977e264f28efc95c13cda5d9c2a"
 }
